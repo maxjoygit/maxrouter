@@ -1,0 +1,27 @@
+{
+    "name": "max/crisrouter",
+    "description": "A simple fast PHP router",
+    "keywords": ["router", "routing", "php router", "phprouter", "php route", "phproute", "phprouting", "php routing", "simple php router", "my php router"],
+    "homepage": "https://github.com/maxjoygit/maxrouter",
+    "license": "MIT",
+    "authors": [
+       {
+          "name": "Max Joy",
+          "email": "maxjoynxt@gmail.com",
+          "homepage": "https://maxjoygit.github.io",
+          "role": "Creator/Developer"
+       }
+       
+    ],
+    "require": {
+       "php": ">=7.4.0"
+    },
+    "autoload": {
+       "psr-4": {
+          "Max\\Router\\": "src/"
+       }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+ }
+ 
