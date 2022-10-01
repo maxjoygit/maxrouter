@@ -18,7 +18,7 @@
     },
     "autoload": {
        "psr-4": {
-          "Maxjoynxt\\Router\\": "src/"
+          "Max\\Router\\": "src/"
        }
     },
     "minimum-stability": "dev",
