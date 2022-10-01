@@ -1,5 +1,5 @@
 <?php
-namespace Max\Router;
+namespace Maxjoynxt\Router;
 class Router {
     protected $routes = [];
     protected $callback404;

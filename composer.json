@@ -1,5 +1,5 @@
 {
-    "name": "max/crisrouter",
+    "name": "maxjoynxt/crisrouter",
     "description": "A simple fast PHP router",
     "keywords": ["router", "routing", "php router", "phprouter", "php route", "phproute", "phprouting", "php routing", "simple php router", "my php router"],
     "homepage": "https://github.com/maxjoygit/maxrouter",
@@ -18,7 +18,7 @@
     },
     "autoload": {
        "psr-4": {
-          "Max\\Router\\": "src/"
+          "Maxjoynxt\\Router\\": "src/"
        }
     },
     "minimum-stability": "dev",
